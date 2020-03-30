@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to second slide"
 ---
-second slide
+this is the second slide of the presentation. Welcome
